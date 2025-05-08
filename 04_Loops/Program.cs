@@ -53,7 +53,7 @@ namespace _04_Loops
             //}
 
 
-            Console.Read();
+            //Console.Read();
             #endregion
 
 
