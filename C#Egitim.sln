@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Foreach", "06_Foreach\06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_Methods", "07_Methods\07_Methods.csproj", "{11E08E67-3231-46B2-9996-731F8721BCF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_SQL", "08_SQL\08_SQL.csproj", "{15164DB9-94AE-4673-8184-0BD55A121241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_SQL_CRUD", "09_SQL_CRUD\09_SQL_CRUD.csproj", "{A97DB675-FD68-4421-921D-AA15856F4796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{11E08E67-3231-46B2-9996-731F8721BCF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11E08E67-3231-46B2-9996-731F8721BCF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11E08E67-3231-46B2-9996-731F8721BCF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15164DB9-94AE-4673-8184-0BD55A121241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15164DB9-94AE-4673-8184-0BD55A121241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15164DB9-94AE-4673-8184-0BD55A121241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15164DB9-94AE-4673-8184-0BD55A121241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A97DB675-FD68-4421-921D-AA15856F4796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97DB675-FD68-4421-921D-AA15856F4796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97DB675-FD68-4421-921D-AA15856F4796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97DB675-FD68-4421-921D-AA15856F4796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
